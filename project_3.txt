@@ -1,0 +1,5 @@
+mango                                                  56                    305
+watermelon                                             300                   1755
+papaya                                                 200                   70
+apple                                                  150                   5
+pineapple                                              230                   340
